@@ -10,11 +10,11 @@ To be able to find out what makes a video game worth buying according to gamers,
 
 Your task as an NLP Specialist on the Growth Hacking Team is the following:
 
-    Download the dataset of Amazon reviews.
-    Create your own dataset from the Amazon reviews.
-    Decide whether people like or dislike the video game they bought. Label each review with a sentiment score between -1 and 1.
-    Check the performance of your sentiment analyzer by comparing the sentiment scores with the review ratings.
-    Evaluate the performance of your sentiment analyzer and find out if you managed to correctly label the reviews.
-    Try out other methods of sentiment analysis. Explore how people evaluate the video game they purchased by classifying the reviews as positive, negative, and neutral.
+   * Download the dataset of Amazon reviews.
+   * Create your own dataset from the Amazon reviews.
+   * Decide whether people like or dislike the video game they bought. Label each review with a sentiment score between -1 and 1.
+   * Check the performance of your sentiment analyzer by comparing the sentiment scores with the review ratings.
+   * Evaluate the performance of your sentiment analyzer and find out if you managed to correctly label the reviews.
+   * Try out other methods of sentiment analysis. Explore how people evaluate the video game they purchased by classifying the reviews as positive, negative, and neutral.
 
 Summarize your results to the Head of the Growth Hacking Team. Based on your findings, list those things that are liked and those ones that are disliked about video games.
